@@ -1,7 +1,7 @@
 Título del Proyecto: Spin Ar Test
 Comenzando:
   1.- Crear  carpeta en local.
-  2.- Clonar el proyecto a su escritorio:
+  2.- Clonar el proyecto a su escritorio: https://github.com/E-Lizie/Spinar-Test.git
   3.- Limpiar y compilar, usando cualquiere editor de codigo fuente.
   4.- Usar el comando ng serve en cualquier linea de comando.
   5.- Verificar el uso del puerto en este caso usa 4200 o 1190.
